@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">e024108f-e1c2-45c9-96b0-72cd95a9ea69</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e024108f-e1c2-45c9-96b0-72cd95a9ea69</dc:identifier>
+        <dc:title>CCNA 200-301 Official Cert Guide Library, Second Edition (andrew hale's Library)</dc:title>
+        <dc:creator opf:file-as="Odom, Wendell &amp; Gooley, Jason &amp; Hucaby, David" opf:role="aut">Wendell Odom</dc:creator>
+        <dc:creator opf:file-as="Odom, Wendell &amp; Gooley, Jason &amp; Hucaby, David" opf:role="aut">Jason Gooley</dc:creator>
+        <dc:creator opf:file-as="Odom, Wendell &amp; Gooley, Jason &amp; Hucaby, David" opf:role="aut">David Hucaby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-05-15T00:00:00+00:00</dc:date>
+        <dc:publisher>Cisco Press</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
